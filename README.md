@@ -3,7 +3,7 @@ A Global Survey of the Sky and Deep Space Objects
 
 # About
 `GSS` is a small and modest Sky Survey, mainly from **Bortle 9**, so the quality won't be the best.  
-Its fully open source and free to contribute to, but I recommend you make your own repository with: `#globalss` oresle this repository will grow massive.  
+Its fully open source and free to contribute to, but I recommend you make your own repository with: `#globalss` orelse this repository will grow massive.  
 To any future contributers: THANKS!
 
 # Licensing
